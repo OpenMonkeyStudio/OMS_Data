@@ -104,6 +104,8 @@ The file comprises of cropping parameters for the images (that have 3D informati
 `crop` (nx6): The array stores information for frame#, cameraID, top-left position of the cropped image in the original image (x, y) and image size (Image_width Image_Height)
  - The format of each row is as follows: `Frame#` `cameraID` `x` `y` `w` `h`, Eg. `3120` `18064162` `789` `327` `381` `382`
 
+## Visualization codes
+The zip file contains codes for visualization of labeled data
 ### image_label_visualizer.py
 This code helps to visualize the 2D labels for images
 ```sh

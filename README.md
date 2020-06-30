@@ -38,7 +38,7 @@ The file comprises of image filenames and image information. It also comprises o
 Example: `0 0 Image_height Image_width y1 x1 y2 x2 ... y13 x13`
 
 3. 3D information has been uploaded for the following batches: `7, 9, 9a, 9b, 10, 11`. The folder for each batch comprises of the extrinsics and intrinsics of the cameras used during the capture of the respective batch. The folder also comprises of cropping parameters for the images in each batch, along with the 3D information for each frame.\
-The files available in each folder have the following format:\
+The files available in each folder have the following format:
 ### File formats
 1. `camera.txt:` The file comprises of the rotation matrices and camera centers for each camera in the batch
 ```sh

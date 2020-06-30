@@ -2,7 +2,7 @@ OpenMonkeyStudio Model and Dataset
 =============================================
 
 ## Introduction
-The OpenMonkeyStudio repository is a work in progress and will be updated on a regular basis. 2D and 3D label data along with the images used for training are available at https://z.umn.edu/OMSdata [3.8GB]
+The OpenMonkeyStudio repository is a work in progress and will be updated on a regular basis. 2D and 3D label data along with the images used for training are available at https://z.umn.edu/OMSdata [3.8 GB]
 
 ## Data folder contents and structure
 The structure of the zip file is as follows:

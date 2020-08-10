@@ -97,7 +97,7 @@ The file comprises of 3D information for 13 joints of the subject in the particu
 `coords` (nx4): First column gives information about the frame number. The next 3 columns provide information about the X, Y and Z coordinates (`n = 13xn’` where `n’` is the  no. of frames)
  - Each row comprises of 3D information for each joint of each frame
  - The format of each row is as follows: `Frame#` `X` `Y` `Z`, Eg. `3120` `3.6364` `0.2717` `1.8471`
- - The order for the joints is as follows: `Nose-Head-Neck-RShoulder-RHand-LShoulder-LHand-Hip-RKnee-RFoot-LKnee-LFoot-Hip`
+ - The order for the joints is as follows: `Nose-Head-Neck-RShoulder-RHand-LShoulder-LHand-Hip-RKnee-RFoot-LKnee-LFoot-Tail`
 
 4. The cropping parameters are stored in `crop_para.mat` file:\
 The file comprises of cropping parameters for the images (that have 3D information available)\
